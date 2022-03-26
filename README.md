@@ -34,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Baron-Br&show_icons=true&theme=dark&locale=en" alt="Mauricio-Baron-Br" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mauricio-Baron-Br&theme=dark" alt="Mauricio-Baron-Br" /></p>
+
+<div>
+  ![Snake animation](https://github.com/Mauricio-Baron-Br/Mauricio-Baron-Br/blob/output/github-contribution-grid-snake.svg)
+ </div>
