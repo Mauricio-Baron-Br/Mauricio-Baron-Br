@@ -6,8 +6,6 @@
 
 - 🌱 Atualmente estou me aperfeiçoando em **HTML5, CSS3 e JAVASCRIPT**
 
-- 📺 Inscreva-se no meu canal do YouTube! - [INSCREVER-SE](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
-
 - 📫 Contato: **mauriciobaron2014@gmail.com**
 
 - 📄 Sobre mim: [Mauricio Baron](https://www.linkedin.com/in/mauricio-baron-jundiai-sp/)
